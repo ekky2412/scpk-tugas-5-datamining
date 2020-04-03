@@ -1,3 +1,3 @@
 # scpk-tugas-5-datamining
-NAMA : Rezky Putratama Raharjo \n
-NIM : 123180007
+<p> NAMA : Rezky Putratama Raharjo </p>
+<p> NIM : 123180007 </p>
